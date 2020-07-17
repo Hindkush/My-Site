@@ -39,7 +39,12 @@ a{
     font-family: 'Montserrat', sans-serif;
     margin-left: 30px;
     font-size: 20PX;
-}
+} 
+a:hover{
+color:white;
+} 
+
+
 /*******************Classes*******************************/
 .code-img {
   float: right;
